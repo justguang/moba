@@ -21,4 +21,4 @@ redis-win-3.0.504:[https://github.com/microsoftarchive/redis]
 
 lua-5.3.4:[https://www.lua.org/ftp/]
 
-还有md5、base64、sha1加密解密，http协议解析，tolua，json等来源网络各大前辈经验
+还有md5、base64、sha1加密解密，http协议解析，tolua，json
