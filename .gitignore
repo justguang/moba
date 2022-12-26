@@ -1,0 +1,31 @@
+﻿
+# [client]
+
+/.vs
+/moba_client/.vs
+/moba_client/Library
+/moba_client/Logs
+/moba_client/obj
+/moba_client/Temp
+/moba_client/Build
+/moba_client/moba_client.sln
+/moba_client/Assembly-CSharp.csproj
+
+
+
+# [server]
+/moba_server/build/bin/logger
+/moba_server/build/proj.win32/.vs
+/moba_server/build/proj.win32/x64
+/moba_server/build/proj.win32/Debug
+/moba_server/build/proj.win32/Release
+/moba_server/build/proj.win32/moba_gameserver.vcxproj.user
+/moba_server/build/proj.win32/moba_gameserver.vcxproj.filters
+
+/moba_server/build/proj.linux/.vs
+/moba_server/build/proj.linux/x64
+/moba_server/build/proj.linux/Debug
+/moba_server/build/proj.linux/Release
+/moba_server/build/proj.linux/moba_gameserver.vcxproj.user
+/moba_server/build/proj.linux/moba_gameserver.vcxproj.filters
+
